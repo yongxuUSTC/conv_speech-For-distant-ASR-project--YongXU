@@ -1,5 +1,5 @@
 Dr. Yong XU
-xuyong62@mail.ustc.edu.cn
+yx0001@surrey.ac.uk
 http://home.ustc.edu.cn/~xuyong62/
 
 Useage for "conv_speech.exe":
@@ -10,4 +10,5 @@ This conv_speech software is for the project "distant speech recognition". We co
 
 
 [1] Joint training of DNNs by incorporating an explicit dereverberation structure for distant speech recognition.
-Tian Gao, Jun Du, Yong Xu, Cong Liu, Li-Rong Dai, Chin-Hui Lee, submitted to ICASSP2016.
+Tian Gao, Jun Du, Yong Xu, Cong Liu, Li-Rong Dai, Chin-Hui Lee, Journal on Advances in Signal Processing 2016(1) · December 2016.
+
