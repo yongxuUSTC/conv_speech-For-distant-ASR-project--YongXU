@@ -1,6 +1,7 @@
 Dr. Yong XU
 yx0001@surrey.ac.uk
-http://home.ustc.edu.cn/~xuyong62/
+https://sites.google.com/view/xuyong/home
+old website: http://staff.ustc.edu.cn/~jundu/The%20team/yongxu/
 
 Useage for "conv_speech.exe":
 conv_speech.exe clean.raw h.raw rebverb.raw
